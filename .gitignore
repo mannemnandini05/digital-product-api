@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database
+*.db
+
+# React
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
